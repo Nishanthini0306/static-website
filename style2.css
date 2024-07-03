@@ -1,0 +1,41 @@
+ul{
+    list-style-type: none;
+    background-color: blueviolet;
+    height:100%;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+li{
+    display: inline;
+    padding: 60px;
+    font-size: 20px;
+    color: black;
+    
+}
+ul a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.img1{
+    padding: 50px;
+}
+.img2{
+    padding: 50px;
+}
+.img3{
+    padding: 50px;
+}
+.para{
+    text-decoration: underline;
+    text-align: right;
+}
+.para1{
+    text-decoration: underline;
+    text-align: right;
+
+}
